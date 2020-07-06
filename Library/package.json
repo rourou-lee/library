@@ -1,0 +1,17 @@
+{
+  "name": "Library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/library.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "rourou-lee",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  }
+}
